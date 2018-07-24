@@ -1,6 +1,7 @@
 # Sentiment-Bitcoin
 
 ### Language: Python (Jupyter Notebook)
+### File: Project_Final_Code.ipynb
 
 Our project seeks to validate the correlations between Google search trends and Twitter sentiments with Bitcoin prices using recent data from 2017 and 2018. We are also interested to discover if these alternative data are predictive causes and whether they would be able to eﬀective forecast the value of Bitcoin. This research also seeks to expand beyond social media and web traﬃc data to include transaction data such as the daily usage of Bitcoin addresses.
 
